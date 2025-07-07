@@ -19,3 +19,6 @@ See `requirements.txt`.
 
 ## Dataset Format
 - Multiple-choice or rating columns representing survey responses  
+
+## Output
+See `Output Folder`
